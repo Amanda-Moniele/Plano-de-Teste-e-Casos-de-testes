@@ -13,6 +13,6 @@ Passos para reproduzir:
 1 - Acessar a tela de tarefas.
 2 - Tentar criar e salvar uma tarefa nova no campo "todo".
 
-Resultado esperado: O usuário após selecionar o campo "todo" e digitar uma nova tarefa, ela devera ser adiconada
+Resultado esperado: O usuário após selecionar o campo "todo" e digitar uma nova tarefa, ela devera ser adicionada
 
 Resultado obtido: Ao tentar criar uma nova tarefa, um erro 400 é gerado, sem detalhes.
