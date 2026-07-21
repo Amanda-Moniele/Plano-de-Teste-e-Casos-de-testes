@@ -7,10 +7,10 @@ Validar o funcionamento das funcionalidades de login, adicionar tarefas, editar 
 
 ### Escopo
 Funcionalidades que serão testadas
-Login
-Logout
-Validação dos campos
-Botões de excluir, editar, salvar 
+Login,
+Logout,
+Validação dos campos,
+Botões de excluir, editar, salvar,
 Mensagens de erro
 
 ### Fora do escopo
