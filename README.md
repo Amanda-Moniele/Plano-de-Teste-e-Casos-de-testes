@@ -1,6 +1,6 @@
 # Projeto Prático de QA – Testes Manuais no Habit Tracker
 
-Realizei um projeto prático de testes manuais na aplicação **Habitat Tracker**, com o objetivo de identificar defeitos e validar o funcionamento das principais funcionalidades do sistema.
+Realizei um projeto prático de testes manuais na aplicação **Habit Tracker**, com o objetivo de identificar defeitos e validar o funcionamento das principais funcionalidades do sistema.
 
 O foco do projeto foi garantir que os fluxos de **login**, **adição de tarefas**, **edição de tarefas** e **exclusão de tarefas** estivessem funcionando corretamente, além de verificar a experiência do usuário e a consistência da interface.
 
