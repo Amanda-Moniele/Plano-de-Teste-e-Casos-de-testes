@@ -1,4 +1,4 @@
-# Projeto Prático de QA – Testes Manuais no Habitat Tracker
+# Projeto Prático de QA – Testes Manuais no Habit Tracker
 
 Realizei um projeto prático de testes manuais na aplicação **Habitat Tracker**, com o objetivo de identificar defeitos e validar o funcionamento das principais funcionalidades do sistema.
 
