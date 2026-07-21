@@ -16,3 +16,6 @@ Passos para reproduzir:
 Resultado esperado: O usuário após selecionar o campo "todo" e digitar uma nova tarefa, ela devera ser adicionada
 
 Resultado obtido: Ao tentar criar uma nova tarefa, um erro 400 é gerado, sem detalhes.
+
+Evidência: 
+![Evidencia do bug](https://github.com/Amanda-Moniele/Plano-de-Teste-e-Casos-de-testes/blob/main/bugjpeg.jpeg?raw=true)
