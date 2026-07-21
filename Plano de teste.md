@@ -1,6 +1,6 @@
 # Plano de Teste
 
-## Projeto: Habitat Tracker
+## Projeto: Habit Tracker
 
 ### Objetivo:
 Validar o funcionamento das funcionalidades de login, adicionar tarefas, editar tarefas, apagar tarefas.  
