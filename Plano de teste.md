@@ -18,11 +18,11 @@ Cadastro de usuários
 Alteração de perfil
 
 ### Tipos de teste
-Testes funcionais
-Testes de interface (UI)
-Testes de validação de campos
-Testes negativos
-Testes de regressão (quando houver alterações)
+Testes funcionais,
+Testes de interface (UI),
+Testes de validação de campos,
+Testes negativos,
+Testes de regressão (quando houver alterações),
 
 
 ### Ambiente de teste
